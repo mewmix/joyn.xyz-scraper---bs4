@@ -15,8 +15,7 @@ selenium and BS4 didn't render the elements out of the box.
 
 ### Run
 
-Save file as scrape.html and run the code to see the scraper download the url. Change as 
-needed.
+copy the full html, then create + paste into a file saving as scrape.html - run the code to see the scraper download from url. Change as needed.
 
 
 ```
